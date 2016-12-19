@@ -71,5 +71,3 @@ jspm_packages
 ### Git ###
 *.orig
 
-# End of https://www.gitignore.io/api/linux,node,git
-data/
