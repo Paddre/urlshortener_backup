@@ -7,6 +7,7 @@ const basicAuth = require('basic-auth-connect');
 const trim = require('trim');
 
 let app = express();
+let unnecessary=4;
 
 // Path where the mapping files are stored
 let mappingPath = './data/';
